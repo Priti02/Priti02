@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priti02
 - 👀 I’m interested in technology, life, ellaborating new things and everything
-- 🌱 I’m currently learning C and soon will be starting c++ and dsa
-- 💞️ I’m looking to collaborate in internships i am interested in
+- 🌱 I’ve knowledge of C programming , HTML and CSS as well
+- 💞️ I’ve also completed one internship as web developer and i'll be looking forward for more opportunities like this
 - 📫 How to reach me : bhakrepriti.1005@gmail.com
 - I am also looking for a job/ intership. My speciality includes web developement
 
